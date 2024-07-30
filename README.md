@@ -49,9 +49,9 @@ Dự án này nhằm phát triển một hệ thống quản lý cơ sở dữ l
 - Yêu cầu đổi trả và bảo hành sản phẩm.
 
 ## Yêu Cầu Hệ Thống
-- **Cơ sở dữ liệu**: MySQL hoặc bất kỳ hệ thống cơ sở dữ liệu quan hệ nào hỗ trợ SQL.
-- **Backend**: Python, Django.
-- **Frontend**: HTML, CSS, JavaScript.
+- **Cơ sở dữ liệu**: SQL Server hoặc bất kỳ hệ thống cơ sở dữ liệu quan hệ nào hỗ trợ SQL.
+- **Backend (có thể làm)**: Python, Django.
+- **Frontend (có thể làm)**: HTML, CSS, JavaScript.
 
 ## Cài Đặt
 1. Clone repository từ GitHub:
