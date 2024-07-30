@@ -1,4 +1,4 @@
-# Hệ Thống Quản Lý Cửa Hàng Giày
+# Cơ Sở Dữ Liệu Quản Lý Cửa Hàng Bán Giày Dép
 
 ## Giới Thiệu Dự Án
 
